@@ -6,7 +6,7 @@ Please complete one of the following exercises. You are free to complete both th
 -  Once assessment is completed, please upload project to GitHub with instructions on how to run tests. You can make github repository as public and share link with us.
 
 
-#Exercise 1- API Test
+Exercise 1- API Test
 
 Assessment Notes
 -	The attachment contains solution ShowroomService.
@@ -29,7 +29,6 @@ Example Acceptance criteria
 -	Please write one for test using Mocks- consider API is not available or try to mock data
 -	In Short consider this service to test fully for production release and what test you can automate to satisfy it’s release to production.
 
-
 Example response: 
 [
   {
@@ -43,14 +42,14 @@ Example response:
 ]
 
 
-#Exercise 1- UI Test
+Exercise 2- UI Test
 -	Task – Visit public website https://automationteststore.com/
 -	Write 3-4 testcase on this using BDD style with basic framework structure.
 -	E.g. Testcase - 
-- Filter products based on Type-Brand
-- Add Products to cart- Include Sale Items
-- View and verify Cart
-- Make sure acceptance test should have Test data and expected results.
+-   Filter products based on Type-Brand
+-   Add Products to cart- Include Sale Items
+-   View and verify Cart
+-   Make sure acceptance test should have Test data and expected results.
 
 IMP Note - Please do not commit code to this repository.
 Upload Test project into your own github account and send us link to clone.
