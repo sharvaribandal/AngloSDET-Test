@@ -1,5 +1,4 @@
-# AngloSDET-Test
-
+# 
 SDET Technical Test
 
 Please complete one of the following exercises. You are free to complete both the exercises.
@@ -7,7 +6,7 @@ Please complete one of the following exercises. You are free to complete both th
 -  Once assessment is completed, please upload project to GitHub with instructions on how to run tests. You can make github repository as public and share link with us.
 
 
-Exercise 1- API Test
+#Exercise 1- API Test
 
 Assessment Notes
 -	The attachment contains solution ShowroomService.
@@ -44,7 +43,7 @@ Example response:
 ]
 
 
-Exercise 1- UI Test
+#Exercise 1- UI Test
 -	Task – Visit public website https://automationteststore.com/
 -	Write 3-4 testcase on this using BDD style with basic framework structure.
 -	E.g. Testcase - 
