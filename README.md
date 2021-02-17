@@ -6,6 +6,7 @@ Please complete one of the following exercises. You are free to complete both th
 -  Once assessment is completed, please upload project to GitHub with instructions on how to run tests. You can make github repository as public and share link with us.
 
 
+
 Exercise 1- API Test
 
 Assessment Notes
@@ -42,7 +43,9 @@ Example response:
 ]
 
 
+
 Exercise 2- UI Test
+
 -	Task – Visit public website https://automationteststore.com/
 -	Write 3-4 testcase on this using BDD style with basic framework structure.
 -	E.g. Testcase - 
