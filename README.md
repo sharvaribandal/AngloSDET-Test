@@ -53,10 +53,5 @@ Exercise 1- UI Test
 - View and verify Cart
 - Make sure acceptance test should have Test data and expected results.
 
-
-
-Please Read SDET Task Instructions.Docx file for instructions.
-
-Please do not commit code to this repository.
-
+IMP Note - Please do not commit code to this repository.
 Upload Test project into your own github account and send us link to clone.
