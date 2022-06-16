@@ -2,7 +2,9 @@
 SDET Technical Test
 
 Please complete one of the following exercises. You are free to complete both the exercises.
--  Please use any programming language you feel comfortable with.
+- We expect UI Test exercise to be in BDD framework, Please use Cucumber or Specflow to write Featurefiles and test.
+- We prefer UI test written in - Javascript/Typescript using Playwright/Selenium/WebdriverIo.
+- But you can use other language if you are comfortable with.
 -  Once assessment is completed, please upload project to GitHub with instructions on how to run tests. You can make github repository as public and share link with us.
 
 
@@ -13,8 +15,10 @@ Assessment Notes
 -	The attachment contains solution ShowroomService.
 -	ShowroomService solution contains the API with the endpoint which needs to be tested
 -	In order to run this ShowroomService solution just load it up in Visual studio and press F5
+-	Running project in Visual studio you will be able to access endpoint.
 -	ShowroomService contains following GET endpoint /api/cars/{type}
 -	Please create separate solution/project to write API test.
+-	You can use any tools/programming language to write API Test.
 
 Assessment Task:
 -	We would like a BDD test for the endpoint in the API Provided and the example Acceptance criteria below, to a standard that you would consider complete for a production system
