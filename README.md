@@ -1,9 +1,10 @@
 Anglo- SDET Assessment
 
-Please complete following exercises. You are free to complete both the exercises.
+Please complete following exercises. 
 • We expect UI Test exercise to be in BDD framework, please use Cucumber or Specflow to write Feature files and test.
 • We prefer UI test written in - Cucumber BDD. Javascript/Typescript using Playwright/Selenium/WebdriverIo.
 • But you can use other language if you are comfortable with.
+•	We would like to see use of Implementation of Context injections to store data properties and access them in binding classes.
 • Once assessment is completed, please upload project to GitHub with instructions on how to run tests. You can make github repository as public and share link with us.
 
 Exercise 1- UI Test
